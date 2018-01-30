@@ -4,7 +4,7 @@
 	Description = "Creates a WinRM SSL listener on the local machine on port 5986."
     CompanyName = 'Yevrag35, LLC.'
     Copyright = '© 2018 Yevrag35, LLC.  All rights reserved.'
-    ModuleVersion = '0.1.0'
+    ModuleVersion = '0.1.1'
     PowerShellVersion = '4.0'
 	DotNetFrameworkVersion = '4.5'
     NestedModules = @('CreateWinRmSslListener.psm1')
